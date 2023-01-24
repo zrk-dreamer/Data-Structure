@@ -1,0 +1,112 @@
+[
+  {
+    "Station": "大安站",
+    "Destination": "淡水站",
+    "UpdateTime": "2021-08-12T15:18:24.217"
+  },
+  {
+    "Station": "大坪林站",
+    "Destination": "新店站",
+    "UpdateTime": "2021-08-12T15:18:32.26"
+  },
+  {
+    "Station": "大湖公園站",
+    "Destination": "南港展覽館站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  },
+  {
+    "Station": "大橋頭站",
+    "Destination": "南勢角站",
+    "UpdateTime": "2021-08-12T15:18:30.07"
+  },
+  {
+    "Station": "小南門站",
+    "Destination": "松山站",
+    "UpdateTime": "2021-08-12T15:18:21.947"
+  },
+  {
+    "Station": "台大醫院站",
+    "Destination": "淡水站",
+    "UpdateTime": "2021-08-12T15:18:34.583"
+  },
+  {
+    "Station": "台北車站",
+    "Destination": "南港展覽館站",
+    "UpdateTime": "2021-08-12T15:18:36.91"
+  },
+  {
+    "Station": "台電大樓站",
+    "Destination": "新店站",
+    "UpdateTime": "2021-08-12T15:18:12.883"
+  },
+  {
+    "Station": "永春站",
+    "Destination": "南港展覽館站",
+    "UpdateTime": "2021-08-12T15:18:16.383"
+  },
+  {
+    "Station": "石牌站",
+    "Destination": "淡水站",
+    "UpdateTime": "2021-08-12T15:18:34.583"
+  },
+  {
+    "Station": "西門站",
+    "Destination": "新店站",
+    "UpdateTime": "2021-08-12T15:18:21.947"
+  },
+  {
+    "Station": "辛亥站",
+    "Destination": "動物園站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  },
+  {
+    "Station": "忠孝復興站",
+    "Destination": "動物園站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  },
+  {
+    "Station": "忠孝新生站",
+    "Destination": "南勢角站",
+    "UpdateTime": "2021-08-12T15:18:19.863"
+  },
+  {
+    "Station": "忠孝新生站",
+    "Destination": "蘆洲站",
+    "UpdateTime": "2021-08-12T15:18:10.69"
+  },
+  {
+    "Station": "松山機場站",
+    "Destination": "南港展覽館站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  },
+  {
+    "Station": "南京復興站",
+    "Destination": "南港展覽館站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  },
+  {
+    "Station": "復興崗站",
+    "Destination": "象山站",
+    "UpdateTime": "2021-08-12T15:18:24.217"
+  },
+  {
+    "Station": "景安站",
+    "Destination": "迴龍站",
+    "UpdateTime": "2021-08-12T15:18:25.467"
+  },
+  {
+    "Station": "港墘站",
+    "Destination": "南港展覽館站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  },
+  {
+    "Station": "葫洲站",
+    "Destination": "動物園站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  },
+  {
+    "Station": "麟光站",
+    "Destination": "南港展覽館站",
+    "UpdateTime": "2021-08-12T15:18:32"
+  }
+]
